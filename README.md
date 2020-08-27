@@ -1,4 +1,6 @@
-### Hi there 👋
+### The latest in student made Social Networks
+#### ElBowSpace is all about providing a place for just you to share stories, photos, thoughts about yourself or your interest.
+- At least it will be, when finished.
 
 <!--
 **ElBowSpace/ElBowSpace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
